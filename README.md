@@ -19,4 +19,4 @@
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: arijitray.official@gmail.com
 
-![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=Sayak007&show_icons=true&hide_border=true)
+![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=ArijitRoy75&show_icons=true&hide_border=true)
