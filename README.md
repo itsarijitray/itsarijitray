@@ -14,7 +14,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently trying for freshers' job and internships.
+- 👨🏽‍💻 I’m currently trying for freshers' jobs
 - 🌱 I’m currently learning Machine Learning and Data analytics
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: arijitray.official@gmail.com
