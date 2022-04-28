@@ -14,9 +14,9 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently trying for freshers' jobs
-- 🌱 I’m currently learning Machine Learning and Data analytics
+- 👨🏽‍💻 I’m currently working as a SDE 1 @Compass IDC
+- 🌱 I’m currently learning Machine Learning and Full Stack Development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: arijitray.official@gmail.com
 
-![Sayak's github stats](https://github-readme-stats.vercel.app/api?username=ArijitRoy75&show_icons=true&hide_border=true)
+![Arijits's github stats](https://github-readme-stats.vercel.app/api?username=ArijitRoy75&show_icons=true&hide_border=true)
