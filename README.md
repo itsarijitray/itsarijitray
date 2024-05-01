@@ -14,7 +14,7 @@
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as a SDE 1 @Zetwerk
+- 👨🏽‍💻 I’m currently working as a SDE 1 at Twilio Segment
 - 🌱 I’m currently learning Machine Learning and Full Stack Development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: arijitray.official@gmail.com
