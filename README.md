@@ -18,6 +18,6 @@
 - 🌱 I’m currently working on Full Stack Development
 - 💬 Ask me about anything, I am happy to help
 - 📫 How to reach me: arijitray.official@gmail.com
-- Checkout My Engineering Thread: [Coding Bad](https://github.com/itsarijitray/coding-bad/tree/main)
+- Checkout My Engineering Thread: [Coding Bad](https://github.com/itsarijitray/coding-bad/blob/main/README.md)
 
 ![Arijits's github stats](https://github-readme-stats.vercel.app/api?username=itsarijitray&show_icons=true&hide_border=true)
